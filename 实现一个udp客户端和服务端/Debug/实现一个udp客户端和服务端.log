@@ -1,0 +1,5 @@
+﻿  udo_ser.cpp
+C:\Users\ryx\source\repos\实现一个udp客户端和服务端\udo_ser.cpp(11,10): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  udp_cli.cpp
+C:\Users\ryx\source\repos\实现一个udp客户端和服务端\udp_cli.cpp(6,10): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  正在生成代码...
